@@ -1,3 +1,8 @@
+//Name: Ethan Hofsteen
+//Date: 1/18/26
+//Class: MSCI-272
+//Purpose: Use functions with parameters that pass by reference in order change variable values in main() within a function
+//This program will give me a deeper understanding of how pass by reference parameters in function work in practice
 #include <iostream>
 
 void inputGrades(double& g1, double& g2, double& g3) {
